@@ -1,0 +1,19 @@
+# Datos (demasiado pesados para GitHub; ver README para descargarlos)
+Earthquakes_USGS.csv
+sismos_procesados.csv
+*.csv
+
+# R
+.RData
+.RDataTmp
+.Rhistory
+.Rproj.user/
+
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Sistema
+desktop.ini
+Thumbs.db
